@@ -1,0 +1,12 @@
+Dependencies for Project 'GPIO', Target 'Target 1': (DO NOT MODIFY !)
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x56F9EC6C)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x4F1E3C4C)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -ID:\20211023_Nhom4VXL\20220118_GPIO\RTE-ID:\20211023_Nhom4VXL\20220118_GPIO\RTE\Device\STM32F103C8-ID:\KeiclV5\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\KeiclV5\Keil\STM32F1xx_DFP\2.1.0\Device\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x4F1E3C4C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-ID:\20211023_Nhom4VXL\20220118_GPIO\RTE-ID:\20211023_Nhom4VXL\20220118_GPIO\RTE\Device\STM32F103C8-ID:\KeiclV5\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\KeiclV5\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (D:\KeiclV5\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA1B70)
+I (D:\20211023_Nhom4VXL\20220118_GPIO\RTE\RTE_Components.h)(0x61E673C7)
+I (D:\KeiclV5\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625C51C)
+I (D:\KeiclV5\ARM\ARMCC\include\stdint.h)(0x574E4C36)
+I (D:\KeiclV5\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625B160)
+I (D:\KeiclV5\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625B160)
+I (D:\KeiclV5\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625B160)
+I (D:\KeiclV5\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E3C4C)
